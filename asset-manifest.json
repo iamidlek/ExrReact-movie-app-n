@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/exrreact-movie-app-n/static/css/main.580fe46e.chunk.css",
-    "main.js": "/github.io/exrreact-movie-app-n/static/js/main.6bc6b6a5.chunk.js",
-    "main.js.map": "/github.io/exrreact-movie-app-n/static/js/main.6bc6b6a5.chunk.js.map",
-    "runtime-main.js": "/github.io/exrreact-movie-app-n/static/js/runtime-main.a9e32f58.js",
-    "runtime-main.js.map": "/github.io/exrreact-movie-app-n/static/js/runtime-main.a9e32f58.js.map",
-    "static/js/2.be922deb.chunk.js": "/github.io/exrreact-movie-app-n/static/js/2.be922deb.chunk.js",
-    "static/js/2.be922deb.chunk.js.map": "/github.io/exrreact-movie-app-n/static/js/2.be922deb.chunk.js.map",
-    "index.html": "/github.io/exrreact-movie-app-n/index.html",
-    "static/css/main.580fe46e.chunk.css.map": "/github.io/exrreact-movie-app-n/static/css/main.580fe46e.chunk.css.map",
-    "static/js/2.be922deb.chunk.js.LICENSE.txt": "/github.io/exrreact-movie-app-n/static/js/2.be922deb.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/ExrReact-movie-app-n/static/css/main.d93eb87f.chunk.css",
+    "main.js": "/github.io/ExrReact-movie-app-n/static/js/main.7ffb6d2d.chunk.js",
+    "main.js.map": "/github.io/ExrReact-movie-app-n/static/js/main.7ffb6d2d.chunk.js.map",
+    "runtime-main.js": "/github.io/ExrReact-movie-app-n/static/js/runtime-main.9d152404.js",
+    "runtime-main.js.map": "/github.io/ExrReact-movie-app-n/static/js/runtime-main.9d152404.js.map",
+    "static/js/2.2b2cb858.chunk.js": "/github.io/ExrReact-movie-app-n/static/js/2.2b2cb858.chunk.js",
+    "static/js/2.2b2cb858.chunk.js.map": "/github.io/ExrReact-movie-app-n/static/js/2.2b2cb858.chunk.js.map",
+    "index.html": "/github.io/ExrReact-movie-app-n/index.html",
+    "static/css/main.d93eb87f.chunk.css.map": "/github.io/ExrReact-movie-app-n/static/css/main.d93eb87f.chunk.css.map",
+    "static/js/2.2b2cb858.chunk.js.LICENSE.txt": "/github.io/ExrReact-movie-app-n/static/js/2.2b2cb858.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9e32f58.js",
-    "static/js/2.be922deb.chunk.js",
-    "static/css/main.580fe46e.chunk.css",
-    "static/js/main.6bc6b6a5.chunk.js"
+    "static/js/runtime-main.9d152404.js",
+    "static/js/2.2b2cb858.chunk.js",
+    "static/css/main.d93eb87f.chunk.css",
+    "static/js/main.7ffb6d2d.chunk.js"
   ]
 }
