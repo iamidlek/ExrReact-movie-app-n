@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/exrreact-movie-app-n/static/css/main.580fe46e.chunk.css",
+    "main.js": "/github.io/exrreact-movie-app-n/static/js/main.6bc6b6a5.chunk.js",
+    "main.js.map": "/github.io/exrreact-movie-app-n/static/js/main.6bc6b6a5.chunk.js.map",
+    "runtime-main.js": "/github.io/exrreact-movie-app-n/static/js/runtime-main.a9e32f58.js",
+    "runtime-main.js.map": "/github.io/exrreact-movie-app-n/static/js/runtime-main.a9e32f58.js.map",
+    "static/js/2.be922deb.chunk.js": "/github.io/exrreact-movie-app-n/static/js/2.be922deb.chunk.js",
+    "static/js/2.be922deb.chunk.js.map": "/github.io/exrreact-movie-app-n/static/js/2.be922deb.chunk.js.map",
+    "index.html": "/github.io/exrreact-movie-app-n/index.html",
+    "static/css/main.580fe46e.chunk.css.map": "/github.io/exrreact-movie-app-n/static/css/main.580fe46e.chunk.css.map",
+    "static/js/2.be922deb.chunk.js.LICENSE.txt": "/github.io/exrreact-movie-app-n/static/js/2.be922deb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e32f58.js",
+    "static/js/2.be922deb.chunk.js",
+    "static/css/main.580fe46e.chunk.css",
+    "static/js/main.6bc6b6a5.chunk.js"
+  ]
+}
